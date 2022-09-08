@@ -1,0 +1,45 @@
+body
+{
+    margin: 0; padding: 0;
+    background-image:url("back-to-school-background-copy-space-121767227.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1
+{
+color: red;
+text-align: center;
+text-align-last: top;
+font-size: 35px;
+}
+.center
+{
+    text-align: center;
+    background-color: rgb(210, 18, 18);
+    border-radius: 250px;
+    border-width: 50;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p
+{
+text-decoration: antiquewhite; text-size-adjust: 25px;
+text-align: center;
+font-size: medium;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-display: 12px;
+font-stretch: extra-expanded;
+}
+p
+{
+    text-overflow: ellipsis;
+    text-decoration: double;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
